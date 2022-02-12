@@ -525,6 +525,9 @@ body {
 .event-img-sakharpuda {
   background-image: url(/images/sakharpuda-photo.jpg);
 }
+.event-img-sangeet {
+  background-image: url(/images/sangeet-photo.jpg);
+}
 .event-img-wedding {
   background-image: url(/images/wedding.jpg);
 }
